@@ -13,12 +13,6 @@ $ pkg install curl<br>
 $ git clone https://github.com/Mr-XsZ/Dark-IG<br>
 $ cd Dark-IG<br>
 $ python2 dark.py<br><br>
-<h1>Menu Tools</h1><br>
-<img src="https://github.com/Mr-XsZ/dark-sms/blob/master/mig/Screenshot_20200407-104719_Termux.jpg"/>
-<br><h1>Spam WA </h1><br>
-<img src="https://github.com/Mr-XsZ/dark-sms/blob/master/mig/Screenshot_20200407-104726_Termux.jpg"/>
-<br><h1>Spam SMS </h1><br>
-<img src="https://github.com/Mr-XsZ/dark-sms/blob/master/mig/Screenshot_20200407-104739_Termux.jpg"/>
 <h1><a href ="https://www.youtube.com/channel/UCLU9H65QrIC6u2UetU6476w">YouTube Tutorial</a></h1>
 <a href ="https://mbasic.facebook.com/2angga315">ask me on facebook</a>
  
