@@ -10,9 +10,9 @@ $ pkg install python<br>
 $ pkg install python2<br>
 $ pkg install git<br>
 $ pkg install curl<br>
-$ git clone https://github.com/Mr-XsZ/dark-sms<br>
-$ cd dark-sms<br>
-$ python2 sms.py<br><br>
+$ git clone https://github.com/Mr-XsZ/Dark-IG<br>
+$ cd Dark-IG<br>
+$ python2 dark.py<br><br>
 <h1>Menu Tools</h1><br>
 <img src="https://github.com/Mr-XsZ/dark-sms/blob/master/mig/Screenshot_20200407-104719_Termux.jpg"/>
 <br><h1>Spam WA </h1><br>
